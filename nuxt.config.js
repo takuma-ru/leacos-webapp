@@ -74,13 +74,13 @@ export default {
 
   firebase: {
     config: {
-      apiKey: process.env.APIKEY,
-      authDomain: process.env.AUTHDOMAIN,
-      projectId: process.env.PROJECTID,
-      storageBucket: process.env.STORAGEBUCKET,
-      messagingSenderId: process.env.MESSAGINGSENDERID,
-      appId: process.env.APPID,
-      measurementId: process.env.MEASUREMENTID
+      apiKey: 'AIzaSyB2w0FzvUlvJcBgFLGsrEmY6JwLcTRcgP0',
+      authDomain: 'leacos.firebaseapp.com',
+      projectId: 'leacos',
+      storageBucket: 'leacos.appspot.com',
+      messagingSenderId: '288082715761',
+      appId: '1:288082715761:web:25fc3ba8d31fdf609aa7d0',
+      measurementId: 'G-Q62XBVT502'
     },
     services: {
       auth: true,
